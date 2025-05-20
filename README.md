@@ -1,8 +1,7 @@
 # Correlation and regression for data analysis
 # Developed by: Monish Kumar.B
 # Reg no: 212224040200
-# Department:CSE
-# Date: 02.05.2025
+# Date: 28-03-2025
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
